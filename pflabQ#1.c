@@ -17,5 +17,6 @@ main(){
 				printf(" ");			
 		}
 		printf("\n");
+		getch();
 }
 }
